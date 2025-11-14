@@ -1,6 +1,6 @@
 # Dashboard Fórmula 1 com Dash (Ergast / Kaggle)
 
-Este projeto é uma reimplementação em **Dash** de um dashboard de análise de dados originalmente feito em **Streamlit**, agora usando como base um conjunto de dados de **Fórmula 1** (derivado do _Ergast API_ via Kaggle).
+Este projeto é uma reimplementação em **Dash** de um dashboard de análise de dados, usando como base um conjunto de dados de **Fórmula 1** (derivado do _Ergast API_ via Kaggle).
 
 O objetivo é:
 
